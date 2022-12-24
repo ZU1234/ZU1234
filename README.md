@@ -1,10 +1,10 @@
-<h1 align="center">Merhaba 👋, ben Zeynep</h1>
+<h1 align="center">Hello 👋, I'm Zeynep</h1>
 
 I am a graduate of Electrical and Electronics Engineering. I'm improving myself in the back-end area. I'm open to learning. I am currently in Kodluyoruz Java Bootcamp training.
 
-- 🌱 Şu anda Java öğreniyorum
+- 🌱I am currently learning Java
 
-- 💬 Bana Java'yı sor 
+- 💬 Ask me about Java
 
 
 <h3 align="left">Sosyal:</h3>
