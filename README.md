@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Zeynep</h1>
 
-I am a graduate of Electrical and Electronics Engineering. I'm improving myself in the back-end area. I'm open to learning. I am currently in Kodluyoruz Java Bootcamp training.
+I am a graduate of Electrical and Electronics Engineering. I'm improving myself in the back-end area. I'm open to learning. 
 
 - 🌱I am currently learning Java
 
