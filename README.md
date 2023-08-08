@@ -2,7 +2,7 @@
 
 - 🌱Yazılım dünyasına meraklı bir yazılım geliştiriciyim ve backend geliştirmeye odaklanıyorum. Kodlama tutkum, çözüm odaklı yaklaşımım ve sürekli öğrenmeye olan açlığım, projeler geliştirmemde ve farklı alanlarda katkıda bulunmamda beni motive ediyor. Backend geliştirici olarak "junior" düzeydeyim, ancak deneyim kazanmak ve kendimi geliştirmek için sabırsızlanıyorum.
 
-# Teknoloji ve Kavramlar
+##
 <p>
  <!--spring-->
 <img src="https://github.com/ZU1234/Document/blob/main/imagesTeknology/1200px-Spring_Framework_Logo_2018.svg.svg" alt="spring" width="100" />   &nbsp;&nbsp; 
