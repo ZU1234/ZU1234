@@ -28,9 +28,9 @@
 |-----------------------|------------------------|------------------------|----------------------|
 |   RESTfull            | Exception Handling     | Servlet                | XML |
 |    Ubuntu             | JWT Authentication     | JSP                    |CSS  |
-| Solr                  | Authentication         | MVC                    | ZK Framework    |
-| Microservices         |Exception Handling      | JSON                   |     Hibernate,JPA  |
-| Eureka Server        | Spring Cloud Gateway    | Spring Cloud OpenFeign | |
+| Solr                  | Authentication         | MVC                    |    HTML |
+| Microservices         |Exception Handling      | JSON                   | ZK Framework      |
+| Eureka Server        | Spring Cloud Gateway    | Spring Cloud OpenFeign |Hibernate,JPA |
 
 
 
