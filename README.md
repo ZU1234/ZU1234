@@ -30,7 +30,7 @@
 |    Ubuntu             | JWT Authentication     | JSP                    |CSS  |
 | Solr                  | Authentication         | MVC                    |    HTML |
 | Microservices         |Exception Handling      | JSON                   | ZK Framework      |
-| Eureka Server        | Spring Cloud Gateway    | Spring Cloud OpenFeign |Hibernate,JPA |
+| SMTP        |     |  ||
 
 
 
