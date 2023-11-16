@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Zeynep</h1>
 
-- 🌱Yazılım dünyasına meraklı bir yazılım geliştiriciyim ve backend geliştirmeye odaklanıyorum. Kodlama tutkum, çözüm odaklı yaklaşımım ve sürekli öğrenmeye olan açlığım, projeler geliştirmemde ve farklı alanlarda katkıda bulunmamda beni motive ediyor. Backend geliştirici olarak "junior" düzeydeyim, ancak deneyim kazanmak ve kendimi geliştirmek için sabırsızlanıyorum.
+- 🌱"Bilgeliğin temeli, öğrenme arzusudur; kimse gerçekten yaşlanmaz, eğer merakını kaybetmezse."
 
 ##
 <p>
