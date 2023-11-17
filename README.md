@@ -27,16 +27,17 @@
 
 <a>
 
-| Java             | JavaScript  |
-|---|---|
-| Java Spring      |   React |
-| Java Spring Boot |         |  
-| Spring Security  |         |   
-| Hibernate        |         |   
-| ZK Framework     |         | 
-| Hybris           |         |
+| Java             | JavaScript  | -  |  - |  - |
+|---|---|---|---|---|
+| Java Spring      |   React |REST           |  HTML       | Solr
+| Java Spring Boot |         |  MVC            |  XML        | Elastic Search 
+| Spring Security  |         |   JSP            |  JSON       | MySql
+| Hibernate        |         |   Microservices  |  CSS        | PostgreSQL 
+| ZK Framework     |         | Maven          |             | MongoDB 
+| Hybris           |         |Ant            |             | Cassandra 
 
 
+<!--
 ## Web Teknolojileri
 | -  |  - |  - |            
 |---|---|---|
@@ -46,7 +47,7 @@
 | Microservices  |  CSS        | PostgreSQL             
 | Maven          |             | MongoDB         
 | Ant            |             | Cassandra        
-
+-->
 
 ## Diğer Teknolojileri
 |-|-|
