@@ -23,17 +23,38 @@
   
  </p>
 
+<br/>
 
-|---|---|---|---|
-|-----------------------|------------------------|------------------------|----------------------|
-|   RESTfull            | Exception Handling     | Servlet                | XML |
-|    Ubuntu             | JWT Authentication     | JSP                    |CSS  |
-| Solr                  | Authentication         | MVC                    |    HTML |
-| Microservices         |Exception Handling      | JSON                   | ZK Framework      |
-| SMTP        |     |  ||
+<a>
+
+| Java             | JavaScript  |
+|---|---|
+| Java Spring      |   React |
+| Java Spring Boot |         |  
+| Spring Security  |         |   
+| Hibernate        |         |   
+| ZK Framework     |         | 
+| Hybris           |         |
 
 
+## Web Teknolojileri
+| -  |  - |  - |            
+|---|---|---|
+| REST           |  HTML       | Solr            
+| MVC            |  XML        | Elastic Search  
+| JSP            |  JSON       | MySql                
+| Microservices  |  CSS        | PostgreSQL             
+| Maven          |             | MongoDB         
+| Ant            |             | Cassandra        
 
+
+## Diğer Teknolojileri
+|-|-|
+|----|------|
+|Docker   | RabbitMQ |
+| SMTP    |          |
+
+<a/>
 
 <h3 align="left">Sosyal:</h3>
  
